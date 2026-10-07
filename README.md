@@ -105,12 +105,33 @@ docs/        -> Prints das paginas do relatorio
 
 ## Apresentação Executiva em PDF
 
-O relatório completo consolidado (com capa executiva, dashboards de vendas, análise PVM, lucro e tooltips contextuais de causa-raiz) está disponível no arquivo PDF abaixo. Todos os dados são fictícios e os nomes de compradores e lojas foram tarjados/anonimizados para preservação de sigilo comercial:
+O relatório completo consolidado está disponível no arquivo PDF abaixo. Todos os dados são fictícios e os nomes de compradores e lojas foram devidamente tarjados para preservação de sigilo comercial:
 
 > 📄 **[Clique aqui para abrir o PDF da Apresentação Executiva](docs/Dashboard_Analise_Setorial_LinkedIn.pdf)**
 
 ---
 
+## Prints do Relatório por Página
+
+### 01. Capa Executiva
+![Capa Executiva](docs/01_Capa_Executiva.png)
+
+### 02. Visão Geral de Vendas & Metas
+![Visão Geral de Vendas](docs/02_Visao_Geral_Vendas.png)
+
+### 03. Decomposição PVM (Preço, Volume e Mix) & Elasticidade
+![Decomposição PVM e Elasticidade](docs/03_Decomposicao_PVM.png)
+
+### 04. Lucro Bruto & Rentabilidade Setorial
+![Lucro e Rentabilidade](docs/04_Lucro_Rentabilidade.png)
+
+### 05. Detalhamento Comercial: Tooltip de Vendas (Açougue)
+![Tooltip de Vendas](docs/05_Tooltip_Vendas_Acougue.png)
+
+### 06. Detalhamento de Rentabilidade: Tooltip de Lucro (Açougue)
+![Tooltip de Lucro](docs/06_Tooltip_Lucro_Acougue.png)
+
+---
 
 ## Autor
 
